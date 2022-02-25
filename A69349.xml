@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for reforming sundry inconueniences touching the coynes of this realme</title>
+            <title>Proclamations. 1619-07-31</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1619</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69349</idno>
+            <idno type="STC">STC 8608</idno>
+            <idno type="STC">ESTC S100751</idno>
+            <idno type="EEBO-CITATION">99836580</idno>
+            <idno type="PROQUEST">99836580</idno>
+            <idno type="VID">862</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69349)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 862)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 1544:13, 1686:45)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for reforming sundry inconueniences touching the coynes of this realme</title>
+                  <title>Proclamations. 1619-07-31</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>[3] sheets   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton, and Iohn Bill, printers to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>Anno 1619.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: Abthorpe the 31. day of Iuly, in the seuenteenth yeere of our reigne ..</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in Cambridge University Library and the Henry E. Huntington Library and Art Gallery.</note>
+                  <note>Appears at reel 1544 (Cambridge University Library copy) and at reel 1686 (Henry E. Huntington Library and Art Gallery copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coinage --  Great Britain --  Law and legislation.</term>
+               <term>Gold coins --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:862:1"/>
+            <head>
+               <figure>
+                  <head>I R</head>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <figDesc>English royal blazon flanked by the English lion and Scottish unicorn</figDesc>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g> By the King. ¶ A Proclamation for reforming ſundry incon<g ref="char:EOLhyphen"/>ueniences touching the Coynes of this Realme.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>Lbeit by ſundry Proclamations heretofore publiſhed with the</hi> aduice of Our Priuie Councell, We haue ſufficiently manifeſted Our care and conſtant deſire to meete with ſuch inconueniences, as either diminiſh the plenty, or impaire the iuſt value of the Coynes of this Our Realme; yet experience hath made it euident, that neither the ſeuerity of Our Lawes, nor ſtrictneſſe of Our Proclamations haue effected that good, which in Our Princely care and prouidence of the publique weale, Wee haue ſo much aymed at, but againſt all Our endeuour and prouiſion, farre greater quantities of light Gold, then in any former age hath been knowen, are dayly and continually vttered, to the great deceit of Our Subiects; and not onely ſo, but the waightieſt of our Coyne, being culled out and ſorted, is tranſported into forraine parts, to the impoueriſhing of this Our Realme. And therfore finding theſe euils, (grounded vpon hope of gaine) to breake through all other politique Conſtitutions, Wee haue reſolued, in purſuit of our Lawes and Proclamations againſt thoſe abuſes, to make triall, if by propoſall of benefit to ſuch as ſhall further Our intention, though with Our owne appa<g ref="char:EOLhyphen"/>rant loſſe, Wee may aduance the plentie and abundance of Coyne within Our Realmes: And therfore finding that the profit of Our coinage (though already abated beneath the Rates of for<g ref="char:EOLhyphen"/>mer times) doth at this preſent amount to the ſumme of twenty ſixe ſhillings foure pence for eue<g ref="char:EOLhyphen"/>ry pound waight of Gold coyned at Our Mint, beſides ſome gaine by ſharing at the ſame Mint; Wee haue giuen order, that for and during the ſpace of one yeere now next enſuing, the ſame bee reduced to the ſumme of fifteene ſhillings onely, including therein alſo the gaine by ſharing. And to the intent all Our louing Subiects, that ſhall bee occaſioned to bring any Gold to bee coyned at Our Mint, may haue a iuſt and full returne thereof, without diminution; Wee doe hereby publiſh and declare, and it is Our expreſſe will and pleaſure, that Our Officers of Our Mint ſhall from henceforth, according to the ancient Law and Cuſtome of this Our Realme (ratified by authoritie of Parliament in the fiue and twentieth yeere of the Reigne of Our moſt Noble Progenitor King <hi>Edward</hi> the third, and in the ninth yeere of the Reigne of King <hi>Henry</hi> the fift) receiue Gold and Siluer into Our Mint by weight, and ſhall deliuer out the Moneys thereof, when it ſhall be made, by weight or by number, at the election of him which ſhal receiue the ſame without delay or difficultie.</p>
+            <pb facs="tcp:862:2"/>
+            <p> And whereas, for the reducing of Our Gold coyne to the ſame price &amp; value which it bare in forreine parts, whereby the tranſportation thereof might more eaſily be preuented, We did here<g ref="char:EOLhyphen"/>tofore aduance the ſame gold Coine in euery twentie Shillings, two Shillings, and according to that proportion in greater or leſſer pieces of Gold, by which meanes the ſame Coines are not found ſo vſefull for Our Subiects, both by the vnaptneſſe for tale, occaſioning fractions and perplexities in reckonings, and by the inequality of the ſumme, cauſing our Subiects in ſome diſburſements of Gold, to deliuer more then other wiſe they would, if the Coine were of an euen proportion; WE haue thought meete hereafter to forbeare the ſtamping of any more of thoſe vnequall Coines, and to reduce Our Moneys hereafter to bee made vnto the ancient values of Coine in vſe before the ſaid aduancement, intending neuertheleſſe, and Our expreſſe will and pleaſure is, That ſuch as are already coyned, ſhall continue of the ſame value as they be at this preſent: And therefore for the time to come, to remoue ſuch inequalitie in Coynes, We haue re<g ref="char:EOLhyphen"/>ſolued of certaine Coynes of Gold, which together with thoſe already coyned, We will and or<g ref="char:EOLhyphen"/>daine to be from henceforth currant within theſe Our Kingdomes of Great Brittaine, Ire<g ref="char:EOLhyphen"/>land, and the reſt of Our Dominions (that is to ſay) One piece of fine Angel gold, of the value of thirtie Shillings ſterling, ſtamped on the one ſide with Our picture crowned, and in Parlia<g ref="char:EOLhyphen"/>ment robes, ſitting in a Chaire, and at the feete a Portcullis, with Our ſtile, <hi>IACOBVS D. G. MAG. BRIT. FRAN. &amp; HIB. REX:</hi> And on the other ſide, Our Armes, with a croſſe flory, and the number of <hi>XXX.</hi> A circle about the Eſcutcheon of Armes, charged with Flower-deluces, Lyons, and Roſes, with this inſcription in an outer circle, <hi>A DN<g ref="char:cmbAbbrStroke">̄</g>O FACTVM ISTVD, ET EST MIRAB. IN OCVLIS NR<g ref="char:cmbAbbrStroke">̄</g>IS.</hi> Another piece of fine Angel Gold, of the value of Fifteene Shillings, ſtamped on the one ſide with a Lyon crowned, holding a ſcep<g ref="char:EOLhyphen"/>ter in the one paw, and Our Eſcutcheon of Armes in the other, marked with the num<g ref="char:EOLhyphen"/>ber <hi>XV.</hi> with Our ſtile afore-mentioned, and on the other ſide with a ſpur-rowell, and in the midſt thereof a Roſe, and without the points of the rowell Flower-deluces, Ly<g ref="char:EOLhyphen"/>ons, and Crownes, with the fore-mentioned inſcription about, <hi>A Dn<g ref="char:cmbAbbrStroke">̄</g>o factum iſtud, &amp; eſt mirab, in oculis noſtris.</hi> One other piece of fine Angel Golde of the value of ten Shillings, ſtamped on the one ſide with the picture of an Angel ſtriking a Serpent, with the number of <hi>X.</hi> and Our ſtile aforeſaid round about, and on the other ſide with a Shippe with one ſaile diſplayed, with Our Armes thereon, and with the like inſcription, <hi>A Dn<g ref="char:cmbAbbrStroke">̄</g>o factum iſtud, &amp; eſt mirab. in oculis noſtris.</hi> One other piece of Crowne Gold of the value of twentie Shil<g ref="char:EOLhyphen"/>lings, ſtamped on the one ſide, with Our picture Crowned with a Laurell, with the number of <hi>XX.</hi> and Our ſtile afore-mentioned round about, and on the other ſide Our Armes crowned, with this inſcription about, <hi>Faciam eos in gentem vnam.</hi> One other piece of Crowne Gold of the value of ten Shillings, ſtamped with Our Picture and ſtile laſt mentioned, and the number of <hi>X.</hi> on the one ſide, and on the other ſide Our Armes Crowned, with this inſcription about, <hi>Hen<g ref="char:EOLhyphen"/>ricus Roſas, Regna Iacobus.</hi> And one <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>her piece of crowne Gold of the value of fiue Shillings, ſtamped on the one ſide with Our Picture and ſtile laſt mentioned, and the number of <hi>V.</hi> and on the other ſide with the like ſtampe as the ten Shillings piece.</p>
+            <p>And becauſe the abuſe of impairing Our Gold Coyne is growne more frequent then here<g ref="char:EOLhyphen"/>tofore, by reaſon the deliuering and receiuing the ſame by waight (a matter agreeable both to ancient and moderne Lawes and Proclamations) hath bene of late greatly neglected, whereby Offenders haue had more opportunitie and encouragement to clip, waſh, and diminiſh the ſame Coynes: Wee haue therefore thought good to quicken the ſaid Lawes, and former Procla<g ref="char:EOLhyphen"/>mations;
+<pb facs="tcp:862:3"/>And therefore according to the preſident of a Proclamation made in the Nine and twentieth yeere of the raigne of Our late deare ſiſter <hi>Queene Elizabeth,</hi> which continued in force till her deceaſe, And of the like Proclamation ſince publiſhed by Vs, in the ninth yeere of Our raigne of England, We doe hereby declare, That after the firſt day of September next, it ſhall be free and lawfull for all and euery Our louing Subiects, to refuſe in any payments, all pieces of Gold heretofore Coyned, which ſhalbe lighter then according to the Remedies or Abatements preſcribed by the aforeſaid Proclamation, made in the ninth yeere of Our raigne, That is to ſay,<lb/> 
+               <hi>In euery piece of golde current for</hi>
+               <table>
+                  <row>
+                     <cell>33. ſhillings,</cell>
+                     <cell rows="6">The remedie and a<g ref="char:EOLhyphen"/>batement ſhall not exceede</cell>
+                     <cell>4. graines and a halfe.</cell>
+                  </row>
+                  <row>
+                     <cell>22. ſhillings,</cell>
+                     <cell>3. graines.</cell>
+                  </row>
+                  <row>
+                     <cell>15. ſhillings 6. pence,</cell>
+                     <cell>2. graines and a halfe.</cell>
+                  </row>
+                  <row>
+                     <cell>11. ſhillings,</cell>
+                     <cell>2. graines.</cell>
+                  </row>
+                  <row>
+                     <cell>5. ſhillings 6. pence,</cell>
+                     <cell>1. graine.</cell>
+                  </row>
+                  <row>
+                     <cell>2. ſhillings 9. pence.</cell>
+                     <cell>Halfe a graine.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>And all other pieces of Golde hereafter to be coyned, which ſhall be lighter then ac<g ref="char:EOLhyphen"/>cording to the remedies or abatements hereafter enſuing, (that is to ſay)</hi>
+               <table>
+                  <row>
+                     <cell>In euery newe piece of golde current for 30. ſhillings,</cell>
+                     <cell rows="5">The remedie and a<g ref="char:EOLhyphen"/>batement ſhall not exceede</cell>
+                     <cell>3. graines.</cell>
+                  </row>
+                  <row>
+                     <cell>20. ſhillings,</cell>
+                     <cell>2. graines.</cell>
+                  </row>
+                  <row>
+                     <cell>15. ſhillings,</cell>
+                     <cell>1. graine and a halfe.</cell>
+                  </row>
+                  <row>
+                     <cell>10. ſhillings,</cell>
+                     <cell>1. graine.</cell>
+                  </row>
+                  <row>
+                     <cell>5. ſhillings,</cell>
+                     <cell>Halfe a graine.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>And to the intent all Our louing Subiects in all parts of this Our Realme may haue good and iuſt Weights for the true weighing of all the ſaid Coynes of Gold, and true and vpright graines &amp; halfe graines for the remedies &amp; abatements aforeſaid, We haue commanded the Ma<g ref="char:EOLhyphen"/>ſter of Our Mint within Our Tower of London now being, (the appointment thereof, being proper &amp; peculiar to Vs onely) to prepare and make ready before the ſaid firſt day of September next a ſufficient number of vpright Balances and true Weights, aſwell of euery ſeuerall peece of Gold lawfully current in this Our Realme, as of the ſayd remedies and abatements, to bee ready to deliuer at reaſonable prices, to bee rated by Our Commiſſioners for Our Treaſurie, or Treaſurer of England for the time being, to all ſuch Our Subiects as ſhall require the ſame; And Our will and pleaſure is, That the chiefe Officers in all Our Cities, Boroughs &amp; Townes corporate of this our Realme of England, and Principalitie of Wales, ſhall before the laſt day of the ſaid moneth of September next, prouide to haue one payre of the ſaid Weights ſufficient, at the hands of the ſaid Maſter of Our Mint, within euery ſuch City, Borough, and Towne corpo<g ref="char:EOLhyphen"/>rate, well and ſafely to be kept, for tryall of the Weight of the ſaid Coynes, as any occaſion ſhall bee. And Wee ſtraitly forbid all Our Subiects and others whatſoeuer, to haue or vſe any o<g ref="char:EOLhyphen"/>ther Weights then as aforeſaid for the ſaid Coynes of Gold, remedies, or abatements, or any of them.</p>
+            <closer>
+               <dateline>Giuen at Abthorpe <date>the 31. day of Iuly, in the ſeuenteenth yeere of Our Reigne of Great Britaine, France, and Ireland.</date>
+               </dateline>
+               <lb/> God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Bonham Norton, and IOHN BILL, Printers to the Kings moſt Excellent Maieſtie. ANNO 1619.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
